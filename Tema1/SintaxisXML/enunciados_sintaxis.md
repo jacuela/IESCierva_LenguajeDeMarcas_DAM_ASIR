@@ -1,5 +1,5 @@
 Autor: Juan Antonio Cuello\
-Clase: 1º DAM  
+Clase: 1º DAM / ASIR 
 
 ---
 
