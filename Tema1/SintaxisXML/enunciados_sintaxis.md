@@ -55,5 +55,6 @@ Se libre de indicar los campos que consideres, con la siguiente consideración:
 - Hay que indicar dos generos, Pop y Folk
 - No es necesario meter todas las canciones, solo las 3 primeras 
 - Imagina que el albun tiene el ISBN de "111-111-111-111". Ponlo como atributo.
-- ¿Se puede meter la portada del disco?. Adjunto la misma. 
-![Caratula](caratula.png)
+- ¿Se puede meter la portada del disco en un XML?
+
+<img src="caratula.png" width="100">
