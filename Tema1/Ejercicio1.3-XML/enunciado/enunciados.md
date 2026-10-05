@@ -15,7 +15,7 @@ Crear un XML con una lista de dos clientes. Cada cliente tienen nombre y cif.
 Corregir los errores del siguiente XML
 
 ```xml
-<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <nota fecha=12/11/99>
   <para>Elisa</para>
   <de>Pedro<de>
@@ -29,7 +29,7 @@ Crear un XML para representar el "personal" de una empresa. Estará formado por 
 Los datos son los siguientes:
 
 - Persona1
-  - Pedro Parra <el jefe>   (hay que poner en el nombre el menor y mayor)
+  - Pedro Parra "el jefe"
   - pedro@kk.com
   - calle Huercal,4, Almeria, 70300
   - 1000€
@@ -41,7 +41,7 @@ Los datos son los siguientes:
   - 1500€
   - id:101
 - Persona3
-  - Mario Parra
+  - Mario Perez&Santos Almeida
   - mario@kk.com
   - calle Huercal,4, Almeria, 70300
   - 2000€
