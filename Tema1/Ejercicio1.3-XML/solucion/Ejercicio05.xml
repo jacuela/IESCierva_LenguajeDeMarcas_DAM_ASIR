@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <!-- XML para representar un album musical El Madrileño, de C.Tangana -->
- <album>
+ <album ISBN="111-111-111-111">
     <titulo>El Madrileño</titulo>
     <autor>C.Tangana</autor>
     <año>2021</año>
@@ -17,4 +17,5 @@
         <cancion>Nunca estoy</cancion>
         <cancion>...</cancion>
     </canciones>
+    <portada>portada.jpg</portada>
  </album>

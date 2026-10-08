@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- LISTADO DE PERSONAL  -->
 <personal>
-  
+    <persona id="100">
+        <nombre> Pedro Parra &quot;el jefe&quot;</nombre>
+        <email>pedro@kk.com</email>
+        <direccion>
+            <calle>Huercal,4</calle>
+            <cp>70300</cp>
+            <localidad>Almeria</localidad>
+        </direccion>
+        <salario moneda="EUR">1000</salario>
+    </persona>
+    <persona id="101">
+        <nombre> Alicia Parra</nombre>
+        <email>alicia@kk.com</email>
+        <direccion>
+            <calle>Huercal,4</calle>
+            <cp>70300</cp>
+            <localidad>Almeria</localidad>
+        </direccion>
+        <salario moneda="EUR">1500</salario>
+    </persona>
+    <persona id="102">
+        <nombre> Mario Perez&amp;Santos Almeida</nombre>
+        <email>mario@kk.com</email>
+        <direccion>
+            <calle>Huercal,4</calle>
+            <cp>70300</cp>
+            <localidad>Almeria</localidad>
+        </direccion>
+        <salario moneda="EUR">2000</salario>
+    </persona>
 </personal>
