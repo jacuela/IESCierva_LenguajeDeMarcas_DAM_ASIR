@@ -93,7 +93,7 @@ Transforma el siguiente JSON en XML
 ```JSON
 {
   "biblioteca": {
-    "libro": [
+    "libros": [
       {
         "titulo": "El señor de los anillos",
         "autor": "J.R.R. Tolkien",
