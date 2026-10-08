@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tienda>
+  <!-- Catálogo de productos -->
+  <producto id="A01">
+    <nombre>Monitor 27&quot;</nombre>
+    <precio moneda="EUR">199.99</precio>
+    <descripcion>Pantalla IPS con relación de aspecto &gt; 16:9</descripcion>
+    <stock>12</stock>
+  </producto>  
+  <producto id="A02">
+    <nombre>Ratón Gaming</nombre>
+    <precio moneda="EUR">25.00</precio>
+    <stock>0</stock>
+  </producto>
+</tienda>

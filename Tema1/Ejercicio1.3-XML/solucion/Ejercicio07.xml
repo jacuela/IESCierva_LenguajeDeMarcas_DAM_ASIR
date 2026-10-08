@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tienda
+    xmlns:musica="http://ejemplo.com/musica"
+    xmlns:libros="http://ejemplo.com/libros">
+    <musica:album>
+        <musica:titulo>El Madrileño</musica:titulo>
+        <musica:autor>C. Tangana</musica:autor>
+        <musica:genero>Pop</musica:genero>
+    </musica:album>
+    <libros:libro>
+        <libros:titulo>El Quijote</libros:titulo>
+        <libros:autor>Miguel de Cervantes</libros:autor>
+        <libros:genero>Novela</libros:genero>
+    </libros:libro>
+</tienda>
