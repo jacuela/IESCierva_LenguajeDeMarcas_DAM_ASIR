@@ -15,3 +15,12 @@ strong {
     color: #c62828;
 }
 
+a {
+    font-weight: bold;;
+    text-decoration: none;
+    color: inherit;
+}
+a:hover{
+    text-decoration: underline;
+}
+
