@@ -6,7 +6,12 @@ Hacer la siguiente web de noticias formada por tres páginas html.
 - deportes.html
 - contacto.html  
 
-En las tres páginas tendrás el menú para viajar entre ellas. Se te proporciona el css para que visualmente quede como en la imagen.
+Algunas consideraciones:
+- En las tres páginas tendrás el menú para viajar entre ellas. 
+- Se te fijas en los pies de imagen `<figcaption>`, debes de centrarlos debajo de la imagen y reducir su tamaño y dejarlo al 80% `0.8rem`.
+- Los bordes de los artículos llevan sombreado.
+
+Se te proporciona el css para que visualmente quede como en la imagen.
 
 
 ---
