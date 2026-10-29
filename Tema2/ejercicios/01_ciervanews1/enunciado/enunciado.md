@@ -14,22 +14,22 @@ En las tres páginas tendrás el menú para viajar entre ellas. Se te proporcion
 **Página index.html**
 Página de inicio. Dispone de los tres artículos del ejercicio ya hecho, solo que le hemos añadido imáganes y un video de youtube. Como las imágenes tienen píe de imagen, debes usar `<figure>`.
 
-<img src="recursos/index1.png" width=300>
-<img src="recursos/index2.png" width=300>
+<img src="recursos/enunciado/index1.png" width=300>
+<img src="recursos/enunciado/index2.png" width=300>
 
 ---
 
 **Página deportes.html**
 Crea un artículo de deportes. Lo que quieras. Busca la foto de Internet.
 
-<img src="recursos/deportes.png" width=300>
+<img src="recursos/enunciado/deportes.png" width=300>
 
 ---
 
 **Página contacto.html**
 Crea el formulario de contacto que puedes ver en la imagen.
 
-<img src="recursos/contacto.png" width=300>
+<img src="recursos/enunciado/contacto.png" width=300>
 
 
 ## CSS de ayuda
