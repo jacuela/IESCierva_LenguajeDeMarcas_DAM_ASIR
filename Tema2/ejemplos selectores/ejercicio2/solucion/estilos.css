@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.titulo {
+  color: #2f5bd3;
+}
+
+.pequeno {
+  font-size: 13px;
+  color: gray;
+}
+
+.plato {
+  padding-left: 10px;
+  border-left: 4px solid #2f5bd3;
+}
+
+.importante {
+  font-weight: bold;
+}
+
+.aviso {
+  background-color: #fff3dc;
+  padding: 8px;
+}

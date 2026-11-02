@@ -1,0 +1,13 @@
+Ejercicios de CSS: clases, div y selectores
+==========================================
+
+Cada carpeta tiene index.html y estilos.css ya enlazados.
+Abre index.html en el navegador y estilos.css en el editor.
+
+ejercicio2  Pon las clases (solo cambias el HTML)
+ejercicio3  Agrupa con div (HTML y CSS)
+ejercicio4  Mismo elemento, distinto estilo (solo CSS)
+ejercicio5  Escribe tú el selector (para comprobar selectores)
+ejercicio6  Da estilo a la tienda (solo CSS)
+
+Los ejercicios 1 y 7 se hacen sobre el papel.
