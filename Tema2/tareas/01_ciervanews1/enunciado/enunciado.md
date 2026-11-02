@@ -1,4 +1,4 @@
-# Ejercicio01 - CiervaNEWS1
+# Tarea1 - CiervaNEWS1
 
 ## Enunciado
 Hacer la siguiente web de noticias formada por tres páginas html.
