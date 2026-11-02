@@ -4,8 +4,11 @@ body {
 
 /* Para comprobar un selector, escríbelo aquí con un borde rojo
    y mira en el navegador qué elementos quedan marcados. Ejemplo:
+*/
 
 .producto {
   outline: 2px solid red;
 }
-*/
+
+
+

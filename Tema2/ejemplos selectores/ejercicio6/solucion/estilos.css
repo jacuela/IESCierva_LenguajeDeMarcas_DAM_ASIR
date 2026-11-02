@@ -1,0 +1,47 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+/* Escribe aquí tus reglas */
+.cabecera {
+  background-color: #2f5bd3;
+  color: white;
+  padding: 4px 14px;
+}
+
+.cabecera .lema {
+  font-style:italic;
+}
+
+.producto {
+  border: 1px solid #dde2ea;
+  border-radius: 8px;
+  padding: 0 14px;
+  margin: 12px 0;
+}
+
+.oferta {
+  border: 2px solid #d03b3b;
+
+}
+
+
+.producto .precio {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.oferta .precio {
+  color: #d03b3b;
+}
+
+.antes {
+  color: gray;
+  font-size: 14px;
+  font-weight: normal;
+  text-decoration: line-through;
+}
+
+.color {
+  font-weight: bold;
+}

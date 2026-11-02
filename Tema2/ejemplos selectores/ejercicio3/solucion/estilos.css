@@ -6,9 +6,25 @@ body {
 
 .libro{
   background-color: #f5f7fa;
-  border: 1px solid #dde2ea; 
+  border: 1px solid #dde2ea;
+  border-radius: 8px;
+  margin-bottom: 12px;
+  padding: 10px 14px; 
 }
 
-h1{
-  background-color: red;
+.libro h2{
+  color: #2f5bd3;
+  font-size: 18px;
+  margin: 0px;
 }
+
+.libro p{
+  margin: 4px 0;
+}
+
+.libro .autor{
+  color: #5b6475;
+  font-style: italic;
+}
+
+

@@ -1,0 +1,31 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+/* Escribe aquí tus reglas */
+.menu{
+  background-color: #1e2433;
+  padding: 12px;
+}
+
+.menu a{
+  color:  white;
+  font-weight: bold;
+  text-decoration: none;
+  margin-right: 16px;
+}
+
+.contenido a{
+  color: #2f5bd3;
+}
+
+.pie{
+  border-top: 1px solid #dde2ea;
+  color: #5b6475;
+  font-size: 13px;
+}
+.pie a{
+ color: #5b6475;
+ 
+}
+
