@@ -1,5 +1,4 @@
 # Ejemplo Selectores
-## Ejercicio0
 
 Este ejemplo contiene los principales selectores
 - selector etiqueta

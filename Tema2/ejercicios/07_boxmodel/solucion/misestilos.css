@@ -1,0 +1,74 @@
+html {
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;   
+}
+
+body {
+    text-align: center;
+    margin: 0px;
+}
+
+header{
+    background-color: black;
+    color:white;
+    padding-top: 5px;
+    border-bottom: 5px solid red;
+}
+
+
+main{
+    margin: 50px;
+}
+
+.caja1{
+    background-color: lightgreen;
+    border: 1px solid black;
+    line-height: 2;
+    text-align: justify;
+}
+
+.caja1 p{
+    margin: 0px;
+}
+
+.caja2{
+    background-color: lightgray;
+    border-left: 6px solid red;
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.caja2 p{
+    border-bottom: 2px dotted black;
+}
+
+.caja3{
+    width: 80%;
+    border: 3px solid black;
+    box-shadow: 0px 0px 5px 2px grey;
+    border-radius: 30px;
+    margin: auto;   
+}
+
+.caja3:hover{
+    background-color: black;
+    color: white;
+}
+
+.caja4{
+    margin-top: 10px; 
+}
+.rojo{
+    background-color: red;
+    height: 30px; 
+}
+.amarillo{
+    background-color: yellow;
+    height: 60px;
+}
+.caja4 p:first-of-type{
+    margin-top: 0px;
+    font-size: 0.6em;
+}
+
