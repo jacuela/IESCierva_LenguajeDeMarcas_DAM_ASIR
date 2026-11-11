@@ -6,7 +6,10 @@ Fijate en lo que pone en cada caja, que te indicará parte de los estilos a apli
 
 Al pasar el ratón por la tercera caja, se invierten los colores.
 
-![alt text](solucion.png)
+![alt text](enunciado_img/solucion.png
+)
 
 
-![alt text](invertir.png)
+
+<img src="enunciado_img/invertir.png" width="300">
+
