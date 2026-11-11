@@ -1,3 +1,7 @@
+* {
+    box-sizing: border-box;
+}
+
 html {
   font-size: 20px;
   font-family: Arial, Helvetica, sans-serif;   
@@ -24,16 +28,12 @@ header{
 
 nav a{
     margin-left: 20px;
-    background-color: rgb(24, 5, 229);
+    background-color: rgb(5, 16, 229);
     color: white;
     text-decoration: none;
 
 }
 
-
-.relleno-azul{
-    background-color: rgb(24, 5, 229);
-}
 
 main{
     margin: 50px;
@@ -45,7 +45,7 @@ hr{
 }
 
 .tarjeta {
-    width: 240px;
+    width: 300px;
     padding: 20px;
     background-color: gold;
     border-radius: 12px;
@@ -61,7 +61,7 @@ hr{
     gap: 20px;
 }
 
-.fila-centrada{
+.contenedor-flex{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
