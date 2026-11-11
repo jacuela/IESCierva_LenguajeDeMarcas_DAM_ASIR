@@ -15,7 +15,7 @@ Mete las tres imágenes en un contenedor _flex_. Debes usar `flex-direction: col
 
 
 ### Tarjetas
-Las tres tarjetas deben mostrarse ded forma flexible. Si hay espacio, en horizontal, pero si el ancho es muy pequeño, pasan a vertical, usando `flex-wrap: wrap`.
+Las tres tarjetas deben mostrarse de forma flexible. Si hay espacio, en horizontal, pero si el ancho es muy pequeño, pasan a vertical, usando `flex-wrap: wrap`.
 
 Crea primero las tarjetas, creando una clase para darle el formato indicado que ves en la imagen. Luego, mete las tres tarjetas en un contenedor _flex_. 
  
