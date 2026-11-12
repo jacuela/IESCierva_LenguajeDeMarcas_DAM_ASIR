@@ -1,0 +1,65 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background-color: #f2f4f8;
+}
+
+header, footer {
+  background-color: #2f5bd3;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+/* ===== Escribe aquí tu CSS ===== */
+main {
+  margin: auto;
+}
+
+.contenedor-flex{
+  display: flex;
+  gap: 30px;
+  margin: 30px;
+  
+}
+
+.columna-1{
+  background-color: rgb(199, 216, 255);
+  padding: 30px 10px;
+  flex:1;
+  
+  
+}
+
+.columna-2{
+  background-color: white;
+  padding: 30px 10px;
+  flex:2;
+  
+}
+
+nav a{
+  display: block;
+  margin: 10px 0px;
+  font-size: 1.2rem;
+}
+
+nav a:hover{
+  list-style: none;
+  margin: 10px 0px;
+  color: red;
+}
+
+@media (max-width: 600px) { 
+ 
+  .contenedor-flex { 
+    flex-direction: column; 
+  } 
+
+  nav.columna-1 {
+    text-align: center;
+  }
+
+
+
+}
