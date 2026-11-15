@@ -33,15 +33,15 @@ Muestra una tarjeta por cada ciclo: ASIR, DAM y DAW (grado superior) y los mást
 - Las tarjetas son blancas y tienen los bordes redondeados (`border-radius`).
 - Cada tarjeta es un enlace a la página de detalle de su ciclo
 ```html
-<div CLASE TARJETA>
-    <a href="XXX">
+<a href="XXX">
+  <div CLASE TARJETA>
         CONTENIDO DE LA TARJETA
-    </a>
-</div>    
+ </div>   
+</a> 
 ```
 - Para poner en azul el titulo de la tarjeta usa selector descendente.
 
-- Al pasar el ratón por encima de la tarjeta, cambia de color de fondo oro.
+- Al pasar el ratón por encima de la tarjeta, la sombra pasa a amarillo. Haz la sombra un poco más grande que se note el efecto.
 
 <img src="recursos/enunciado/inicio.png" width=500>
 
