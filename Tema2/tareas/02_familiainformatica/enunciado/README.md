@@ -55,7 +55,7 @@ Las cinco páginas tienen la misma estructura. Busca la información de cada cic
 
 - A la derecha, un `<aside>` con una imagen del ciclo, los datos del ciclo (duración y modalidad) y un botón para volver a inicio.
 
-- Los dos van dentro de un contenedor flexible: el artículo ocupa `flex: 2` y el aside `flex: 1`.
+- Los dos van dentro de un contenedor flexible: el artículo ocupará de ancho el triple que el aside. Es decir, el articulo ocupa `flex: 3` y el aside `flex: 1`.
 
 - Las dos cajas tienen los bordes redondeados. El aside tiene un fondo dorado claro (`#fff3cc`) y su imagen ocupa todo el ancho (`width: 100%`) con las esquinas redondeadas.
 
@@ -79,7 +79,7 @@ Las cinco páginas tienen la misma estructura. Busca la información de cada cic
 
 
 ### Media query.
-Cuando la ventana mide menos de 700px, las dos columnas se colocan una debajo de otra. Usa una media query `@media (max-width: 700px)` y, dentro, cambia la dirección del contenedor flexible a columna. No olvides la etiqueta `<meta name="viewport" content="width=device-width, initial-scale=1.0">` en el `<head>` de todas las páginas.
+Cuando la ventana mide menos de 800px, las dos columnas se colocan una debajo de otra. Usa una media query `@media (max-width: 800px)` y, dentro, cambia la dirección del contenedor flexible a columna. No olvides la etiqueta `<meta name="viewport" content="width=device-width, initial-scale=1.0">` en el `<head>` de todas las páginas.
 
 <img src="recursos/enunciado/detalle-movil.png" width=300>
 
